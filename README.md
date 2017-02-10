@@ -255,6 +255,7 @@ Index for all continuous learning projects on GitHub
 |Project Name|
 |------------|
 |[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
+|[Gulp](https://github.com/Apollo013/Gulp)|
 
 <a name="HistoryJS"/>
 ## HistoryJS
