@@ -10,7 +10,7 @@ Index for all continuous learning projects on GitHub
   * [Architecture](#Architecture)
   * [Design Patterns](#DESIGNPATTERNS) 
   * [Design Principles](#DESIGNPRINCIPLES) 
-3. [Client Side Frameworks & Plugins](#CLIENTSIDE)
+3. [Client Side & Javascript Frameworks](#CLIENTSIDE)
   * [AngularJS](#AngularJS)
   * [Browserify](#browserfy)
   * [Charts](#Charts)
