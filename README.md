@@ -63,10 +63,10 @@ Index for all continuous learning projects on GitHub
   * [EntityFramework / Code First](#EntityFramework)
   * [Identity, Cryptography & Security](#Identity)
   * [LINQ / DLINQ / PLINQ](#LINQ)
+  * [MS SQL Server Services](#SSS)
+    * [SSIS](#SSS)  
   * [MVC](#MVC)
   * [SignalR](#SignalR)
-  * [SQL Services](#SSS)
-    * [SSIS](#SSS)
   * [VB6](#VB6)
   * [VB.Net](#VB)
   * [WCF](#WCF)
@@ -768,6 +768,14 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |[WPF_PayrollApp](https://github.com/Apollo013/WPF_PayrollApp)|
 |[CSharp_DataParallelism](https://github.com/Apollo013/CSharp_DataParallelism)|
 
+
+<a name="SSS"/>
+## MS SQL Server Services
+|Project Name|
+|------------|
+|[MSSQL_SSIS](https://github.com/Apollo013/MSSQL_SSIS)|
+
+
 <a name="MVC"/>
 ## MVC
 |Project Name|
@@ -787,13 +795,6 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 |------------|
 |[AspNet_MVC5_KnockoutJS_SignalR/ChatRooms](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/ChatRooms)|
 |[AspNet_MVC5_KnockoutJS_SignalR/StockTicker](https://github.com/Apollo013/AspNet_MVC5_KnockoutJS_SignalR/tree/master/StockTicker)|
-
-<a name="SSS"/>
-## SQL Server Services
-|Project Name|
-|------------|
-|[MSSQL_SSIS](https://github.com/Apollo013/MSSQL_SSIS)|
-
 
 <a name="VB6"/>
 ## VB6
