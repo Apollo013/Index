@@ -1,6 +1,6 @@
 # Index
 
-Index for all continuous learning projects on GitHub
+Index for all continuous learning projects on GitHub.
 
 ---
 
