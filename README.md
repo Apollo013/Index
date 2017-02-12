@@ -31,6 +31,7 @@ Index for all continuous learning projects on GitHub.
   * [TypeScript](#typescript)
   * [Underscore](#Underscore)
   * [Watchify](#watchify)
+  * [Yeoman.io](#yeoman)
 4. [Data Storage](#DataStorage)
   * [Access](#Access)
   * [Block Storage (Azure)](#BLOBSTORAGE)
@@ -382,12 +383,20 @@ mongoose
 |[AspNet_MVC5_GigHub](https://github.com/Apollo013/AspNet_MVC5_GigHub)|
 |[NodeJS_BuildingWebApps_Pluralsight](https://github.com/Apollo013/NodeJS_BuildingWebApps_Pluralsight)|
 
-watchify
+
 <a name="watchify"/>
 ## Watchify
 |Project Name|
 |------------|
 |[TypeScript_Gulp_Fundamentals](https://github.com/Apollo013/Typescript_Fundamentals/tree/master/Projects/TypeScript_Gulp_Fundamentals)|
+
+
+<a name="yeoman"/>
+## Yeoman.io
+|Project Name|
+|------------|
+|[AspCore_Security_CookieAuthentication](https://github.com/Apollo013/AspCore_Security_CookieAuthentication)|
+|[AspCore_Security_ExternalProvidersAuthentication](https://github.com/Apollo013/AspCore_Security_ExternalProvidersAuthentication)|
 
 ---
     
@@ -859,14 +868,15 @@ IHttpActionResult|[AspNet_WebApi2_AngularJS_UIGrid](https://github.com/Apollo013
 #.NET Core    
 
 <a name="dotcoreasp"/>
-#### ASP.NET
+#### ASP.NET Core
 |Project Name|
 |------------|
 |[DotNetCore_Fundamentals](https://github.com/Apollo013/DotNetCore_Fundamentals)|
-
+|[AspCore_Security_CookieAuthentication](https://github.com/Apollo013/AspCore_Security_CookieAuthentication)|
+|[AspCore_Security_ExternalProvidersAuthentication](https://github.com/Apollo013/AspCore_Security_ExternalProvidersAuthentication)|
 
 <a name="dotcoreconsole"/>
-#### CONSOLE
+#### Console
 |Project Name|
 |------------|
 |[DotNetCore_SCD_Primer](https://github.com/Apollo013/DotNetCore_SCD_Primer)|
